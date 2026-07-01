@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0443-string-compression](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Sorting
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Trie
 |  |
 | ------- |
