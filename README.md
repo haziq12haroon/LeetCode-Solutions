@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0443-string-compression](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## String Matching
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
