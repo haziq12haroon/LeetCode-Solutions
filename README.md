@@ -111,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
