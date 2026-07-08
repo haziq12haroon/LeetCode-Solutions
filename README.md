@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -123,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/haziq12haroon/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
